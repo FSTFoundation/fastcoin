@@ -13,7 +13,7 @@ out collectively by the network. Fastcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Fastcoin Core software, see https://www.fastcoin.ca
+the Fastcoin Core software, see https://www.fastcoin-project.com
 
 License
 -------
@@ -67,7 +67,7 @@ See https://github.com/bitcoin/QA/ for how to create a test plan.
 * https://twitter.com/JonMarshallz
 * https://www.facebook.com/pages/Fastcoinca/593923330628082
 * https://webchat.freenode.net/?channels=#fastcoin
-* https://www.fastcoin.ca
+* https://www.fastcoin-project.com
 
 
 
