@@ -1,7 +1,7 @@
 Fastcoin Core integration/staging tree
 =====================================
 
-[https://www.fastcoin-project.com]
+https://www.fastcoin-project.com
 
 What is Fastcoin?
 ----------------
